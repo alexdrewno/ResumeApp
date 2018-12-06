@@ -1,0 +1,8 @@
+export const ColorConstants = {
+	MAIN_COLOR: '#255E69',
+  LIGHTER_COLOR: '#477F8A', 
+  LIGHTEST_COLOR: '#7DAEB7',
+	DARKER_COLOR: '#0D3F48',
+  DARKEST_COLOR: '#012126',
+}
+ 
